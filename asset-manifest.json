@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zedflix-react/static/css/main.640621f8.css",
+    "main.js": "/zedflix-react/static/js/main.14856961.js",
+    "static/media/NoImage.jpg": "/zedflix-react/static/media/NoImage.e4361609675e4df8dddd.jpg",
+    "index.html": "/zedflix-react/index.html",
+    "main.640621f8.css.map": "/zedflix-react/static/css/main.640621f8.css.map",
+    "main.14856961.js.map": "/zedflix-react/static/js/main.14856961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.640621f8.css",
+    "static/js/main.14856961.js"
+  ]
+}
