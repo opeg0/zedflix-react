@@ -6,9 +6,11 @@ import TvShows from "./TvShows";
 import Trending from "./Trends"
 import Pricing from "./Pricing";
 import '../Styles/NavBarStyle.css'
+export const Container = React.createContext()
 function NavBar() {
     const [toggle, setToggle] = useState(true)
     return (
+        <Container.Provider value={toggle}> 
         <Fragment>
             <nav className={toggle ? "" : "navBarColor"}>
                 <div className="nav-options">
@@ -41,6 +43,7 @@ function NavBar() {
                 <Route path="Pricing" element={<Pricing />}></Route>
             </Routes>
         </Fragment>
+        </Container.Provider>
     )
 }
 
