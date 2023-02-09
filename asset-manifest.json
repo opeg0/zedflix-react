@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zedflix-react/static/css/main.fb81d596.css",
-    "main.js": "/zedflix-react/static/js/main.1d30b24a.js",
+    "main.css": "/zedflix-react/static/css/main.cae28c51.css",
+    "main.js": "/zedflix-react/static/js/main.4228ad62.js",
     "static/media/NoImage.jpg": "/zedflix-react/static/media/NoImage.e4361609675e4df8dddd.jpg",
     "index.html": "/zedflix-react/index.html",
-    "main.fb81d596.css.map": "/zedflix-react/static/css/main.fb81d596.css.map",
-    "main.1d30b24a.js.map": "/zedflix-react/static/js/main.1d30b24a.js.map"
+    "main.cae28c51.css.map": "/zedflix-react/static/css/main.cae28c51.css.map",
+    "main.4228ad62.js.map": "/zedflix-react/static/js/main.4228ad62.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb81d596.css",
-    "static/js/main.1d30b24a.js"
+    "static/css/main.cae28c51.css",
+    "static/js/main.4228ad62.js"
   ]
 }
