@@ -1,4 +1,4 @@
-Videos.css 
+
 body{
     overflow-x: hidden;
 }
@@ -8,10 +8,12 @@ body{
     justify-content: center;
 }
 .mainBgColor{
-    background-color:#0c1e25;
+    color: #fff;
+    background-color: #0c1e25;
     width: 100%;
 }
 .secondaryBgColor{
+    color: black;
     background-color: #fff;
     width: 100%;
 }
